@@ -1,0 +1,27 @@
+Hei {navn},
+
+Tusen takk for din deltakelse på "{kursnavn}" den {kursdato} og "{kursnavn2}" den {kursdato2}.
+
+Vedlagt i denne mailen finner du ditt sertifiseringsbevis.<br>
+
+Du kan enkelt legge inn kurset på LinkedIn under "Lisenser og sertifiseringer" via lenken under og følgende steg:
+
+1. Navn er: Questback Essentials Certified User
+2. Utsteder er Questback
+3. Kryss av for "Sertifiseringen utløper ikke"
+4. Utstedelsesdato er {kursdato}
+5. Din unike Attest ID er: {attestID}
+6. Din unike "Legitimasjons-URL" er følgende lenke: {lenke}
+
+Trykk her for å starte  registreringen: https://www.linkedin.com/profile/add?startTask=Questbac
+
+Vennlig hilsen,
+
+Håkon Voldmo Kavli
+Nordic Academy Manager
+Mobile: +47 97001850
+LinkedIn:https://no.linkedin.com/in/kavlikavli/ 
+Bogstadveien 54, 0366 OSLO
+www.questback.com
+People matter. Get their insight.
+"""

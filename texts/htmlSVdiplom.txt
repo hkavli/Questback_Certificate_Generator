@@ -1,0 +1,19 @@
+<html>
+<body>
+<p>Hej {navn},</p>
+<p>Tusen tack för ditt deltagande på utbildingen "{kursnavn}" den {kursdato}.</br>
+Bifogat hittar du ditt diplom.</p>
+
+<p>Deltakare från våra Grundkurs får 50% rabatt på vårens "Avancerad kurs" (din pris är SEK 2000,-).</p>
+<p>Vil du delta, eller kännnar du nogon andra som skulle kunne vara intresserad i utbilding i Essentials?</br>
+Bruka och dela den här länken med dom:&nbsp; <a href="https://response.questback.com/qct/trainings"><span style="color: blue;">https://response.questback.com/qct/trainings</span></a></p>
+
+<p>Vänlig hälsning,</p>
+<p><strong><span style="font-size: 11.0pt;  color: #37cb79;">H&aring;kon Voldmo Kavli </span></strong>
+<br/>
+<span style="font-size: 11.0pt;  color: black;">Nordic Academy Manager
+<p><a href="mailto:hakon@questback.com"><span style="color: blue;">hakon@questback.com</span></a> | <a href="https://no.linkedin.com/in/kavlikavli/en%0d"><span style="color: blue;">linkedin.com/in/kavlikavli/en</span></a> |Tel.:&nbsp;+47&nbsp;21027080 </p>
+<p><a href="https://www.google.com/maps/place/Questback+AS/@59.9279097,10.7160529,17z/data=!3m1!4b1!4m5!3m4!1s0x46416dda3e6493c1:0xefc9477d920508ac!8m2!3d59.9279097!4d10.7182416"><strong><span style="font-size: 11.0pt;  color: black;"><span style="color: black;">Bogstadveien 54, 0366 Oslo, Norge</span></span></strong></a>
+<span style="font-size: 11.0pt;  color: black;"><br /></span><a href="http://www.questback.com/"><strong><span style="font-size: 11.0pt;  color: black;"><span style="color: black;">www.questback.com</span></span></strong></a>
+<span style="font-size: 11.0pt;  color: #1f497d;"><br /><br /></span><strong><span style="font-size: 11.0pt;  color: #37cb79;">People matter. Get their insight.</span></strong></p>
+<p><a href="https://twitter.com/questback"><span style="font-size: 9.0pt;  color: black;"><span style="color: black;">Twitter</span></span></a><span style="font-size: 9.0pt;  color: black;"> | </span><a href="https://www.facebook.com/questback"><span style="font-size: 9.0pt;  color: black;"><span style="color: black;">Facebook</span></span></a><span style="font-size: 9.0pt;  color: black;"> | </span><a href="https://www.linkedin.com/company/questback"><span style="font-size: 9.0pt;  color: black;"><span style="color: black;">Linkedin</span></span></a><span style="font-size: 9.0pt;  color: black;"> | </span><a href="http://www.questback.com/blog"><span style="font-size: 9.0pt;  color: black;"><span style="color: black;">Blog</span></span></a><span style="font-size: 9.0pt;  color: #9ab402;">&nbsp;</span></p>

@@ -1,0 +1,29 @@
+<html>
+<body>
+<p>Hei {navn},</p>
+<p>Kiitos osallistumisestasi "{kursnavn}" {kursdato}.</p>
+<p>Löydät kurssidiplomisi tämän viestin liitteenä. </p>
+<p>Voit helposti lisätä sertifikaatin Linkedin profiiliisi klikkaamalla ensin ’Add to profile’ ja lisäämäällä sen jälkeen seuraavat tiedot:
+<ol>
+<li>"Name": Questback Essentials Certified User</li>
+<li>"Issuing Organization": Questback</li>
+<li>Laita raksi ruutuun kohtaan "This certification does not expire"</li>
+<li>"Issue Date": {kursdato}</li>
+<li>Sinun henkilökohtainen "Credential ID": {attestID}</li>
+<li>Sinun henkilökohtainen "Credential URL" linkki: {lenke}</li>
+</ol> </p>
+
+<p> Klikkaa tästä aloittaaksesi:
+
+<div><a href="https://www.linkedin.com/profile/add?startTask=Questback" rel="nofollow" target="_blank"><img src="https://download.linkedin.com/desktop/add2profile/buttons/en_US.png" alt="LinkedIn Add to Profile button"></a></div>
+<br/>
+
+<p>Ystävällisin terveisin</p>
+<p style="margin: 0px;"><strong>Raimo P&ouml;ll&auml;nen</strong></p>
+<p style="margin: 0px;">Toimitusjohtaja, partner</p>
+<p style="margin: 0px;"><a style="color: #1155cc;" href="tel:+358%2040%C2%A0831%204198">+358 40&nbsp;831 4198</a></p>
+<p style="margin: 0px;"><a style="color: #1155cc;" href="mailto:raimo.pollanen@tutkimusvoima.fi">raimo.pollanen@tutkimusvoima.fi</a></p>
+<p style="margin: 0px;"><a style="color: #1155cc;" href="https://www.linkedin.com/in/raimo/p" data-saferedirecturl="https://www.google.com/url?q=https://www.linkedin.com/in/raimo/p&amp;source=gmail&amp;ust=1556885669661000&amp;usg=AFQjCNEJduaFQcFBZ0tg0_H6Qbb6PdE8cw">https://www.linkedin.com/in/raimo/p</a></p>
+<p style="margin: 0px;">&nbsp;</p>
+<p style="margin: 0px;"><strong>Tutkimusvoima Oy</strong>, Espoo, Finland</p>
+<p style="margin: 0px;"><a style="color: #1155cc;" href="http://www.tutkimusvoima.fi/" data-saferedirecturl="https://www.google.com/url?q=http://www.tutkimusvoima.fi/&amp;source=gmail&amp;ust=1556885669661000&amp;usg=AFQjCNEB2rpckQsZacOu3P-nSm6lH0-d0A">www.tutkimusvoima.fi</a></p>

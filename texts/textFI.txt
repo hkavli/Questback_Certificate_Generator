@@ -1,0 +1,27 @@
+Hei {navn},
+
+Kiitos osallistumisestasi "{kursnavn}" {kursdato}.
+Löydät kurssidiplomisi tämän viestin liitteenä.
+Voit helposti lisätä sertifikaatin Linkedin profiiliisi klikkaamalla ensin ’Add to profile’ ja lisäämäällä sen jälkeen seuraavat tiedot:
+
+1. "Name": Questback Essentials Certified User
+2. "Issuing Organization": Questback
+3. Laita raksi ruutuun kohtaan "This certification does not expire"
+4. "Issue Date": {kursdato}
+5. Sinun henkilökohtainen "Credential ID": {attestID}
+6. Sinun henkilökohtainen "Credential URL" linkki: {lenke}
+
+Klikkaa tästä aloittaaksesi: https://www.linkedin.com/profile/add?startTask=Questback
+
+Ystävällisin terveisin,
+
+Raimo Pöllänen
+
+Toimitusjohtaja, partner
++358 40 831 4198
+raimo.pollanen@tutkimusvoima.fi
+https://www.linkedin.com/in/raimop/
+Tutkimusvoima Oy, Espoo, Finland
+www.tutkimusvoima.fi
+
+"""

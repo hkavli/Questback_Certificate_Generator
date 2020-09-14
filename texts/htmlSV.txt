@@ -1,0 +1,33 @@
+<html>
+<body>
+<p>Hej {navn},</p>
+<p>Tusen tack för ditt deltagande på utbildingen "{kursnavn}" den {kursdato} och "{kursnavn2}" den {kursdato2}.</br>
+Bifogat hittar du ditt certifikat. Se nedan guide för at publicera Cerifikatet på LinkedIn.</p>
+
+<p>Kännnar du nogon andra som skulle kunne vara intresserad i utbilding i Essentials?</br>
+Dela den här länken med dom:&nbsp; <a href="https://response.questback.com/qct/trainings"><span style="color: blue;">https://response.questback.com/qct/trainings</span></a></p>
+
+<p>Du kan enkelt ladda upp certifikatet på LinkedIn under "Licenses & Certifications" via knappen "Lägg til på profil" og följande steg:
+<ol>
+<li>"Name" är: Questback Essentials Certified User</li>
+<li>"Issuing Organization" är: Questback</li>
+<li>Booka i för "Inget utgångsdatum"</li>
+<li>"Utfärdandedatum" är: {kursdato2}</li>
+<li>Din unika "Legitimerings-ID" är: {attestID}</li>
+<li>Din unika "Referenswebbadress" är följande länk: {lenke}</li>
+</ol></p>
+<p> Klicka här for att starta registreringen:</p>
+<div><a href="https://www.linkedin.com/profile/add?startTask=Questback" rel="nofollow" target="_blank"><img src="https://lh3.googleusercontent.com/l_QiHmQNOEB6LgH14k0A7y-LclveEjQ7IuTLafFLU2oFy2FJzsNPocvHHIQyhB0pe_LJTTXqHbceBVuXFkVgWe2rINIqXfVxBl2pTWwTfTnIrvcoEjJfgS3OZEW1TrTOlo7g6zPGt_pTrmDjg451PXXSWRmhfB1Qj29OsTDZtx98GFAkLvGQsUGpVzh7rcpmG5EcycBYyDKBZCZQUUnL5jUZ67ZAGbL3MczlK-u9wob0YTSbIaQ6hKmm6qZFcTDZN0e71WZzQn28XBUJfCn4WtqP29u7wdRTgU5DQ9WWWaYwlNIVlIO3sKrmOsY4kB5ohvwBkLODM-K4E99dyDTQnWdBplmeApFvNk4JcgSpQgweCoN5Fa7zRTVHDxdQQ7vo-7lJrzVm1LKn4mxd5jZRS5SU_3fKhq9HZvZV2e5LdmglQ1GPS3yuL9DigLowj8IW8vAjZbqCvqRc1zcJYBGPFT9xAl8wTCVvXRIwG0wye9AzNhyp7XKJjNdKyrEZqJG-nrOrdvr6sY30EV4Pgl3cu1Mm0dGNTFlEY4B1AWXfyUIJpUSfX1nOCVkhPulJS2DFOzoL9eJPSVXflcTZ1EOV3_ssGiiBtph-uiZdMS1EChx8kzOcypz7O8TwqgJerqV6W6vzQM259ZkdJhLDy8GLYGGHKR2nYGU=w162-h35-no" alt="LinkedIn Lägg til i profil"></a></div>
+
+<p><a href="https://www.linkedin.com/profile/add?startTask=Questback"><span style="color: blue;">https://www.linkedin.com/profile/add?startTask=Questback</span></a></p>
+
+<p>Vänlig hälsning,</p>
+<p><strong><span style="font-size: 11.0pt;  color: #37cb79;">H&aring;kon Voldmo Kavli </span></strong>
+<br/>
+<span style="font-size: 11.0pt;  color: black;">Nordic Academy Manager
+<p> Mobile: +47&nbsp;97001850</p>
+<p> LinkedIn:&nbsp;<a href="https://no.linkedin.com/in/kavlikavli/en%0d"><span style="color: black;">https://no.linkedin.com/in/kavlikavli/en</span></a></p>
+<p><a href="https://www.google.com/maps/place/Questback+AS/@59.9279062,10.700732,14z/data=!4m8!1m2!2m1!1sQuestback+ab+!3m4!1s0x46416dda3e6493c1:0xefc9477d920508ac!8m2!3d59.9279097!4d10.7182416"><strong><span style="font-size: 11.0pt;  color: black;"><span style="color: black;">Bogstadveien 54, 0366 OSLO</span></span></strong></a>
+<span style="font-size: 11.0pt;  color: black;"><br /></span><a href="http://www.questback.com/"><strong><span style="font-size: 11.0pt;  color: black;"><span style="color: black;">www.questback.com</span></span></strong></a>
+<span style="font-size: 11.0pt;  color: #1f497d;"><br /><br /></span><strong><span style="font-size: 11.0pt;  color: #37cb79;">People matter. Get their insight.</span></strong></p>
+<p><a href="https://twitter.com/questback"><span style="font-size: 9.0pt;  color: black;"><span style="color: black;">Twitter</span></span></a><span style="font-size: 9.0pt;  color: black;"> | </span><a href="https://www.facebook.com/questback"><span style="font-size: 9.0pt;  color: black;"><span style="color: black;">Facebook</span></span></a><span style="font-size: 9.0pt;  color: black;"> | </span><a href="https://www.linkedin.com/company/questback"><span style="font-size: 9.0pt;  color: black;"><span style="color: black;">Linkedin</span></span></a><span style="font-size: 9.0pt;  color: black;"> | </span><a href="http://www.questback.com/blog"><span style="font-size: 9.0pt;  color: black;"><span style="color: black;">Blog</span></span></a><span style="font-size: 9.0pt;  color: #9ab402;">&nbsp;</span></p>

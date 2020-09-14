@@ -1,0 +1,27 @@
+Hej {navn},
+
+Tusen tack för ditt deltagande på "{kursnavn}" den {kursdato} och "{kursnavn2}" den {kursdato2}.
+Bifogat hittar du ditt certifikat.
+
+Du kan enkelt ladda upp certifikatet på LinkedIn under "Licenses & Certifications" via lenken under og följande steg:
+1. "Name" är: Questback Essentials Certified User
+2. "Issuing Organization" är: Questback
+3. Booka i för "Inget utgångsdatum"
+4. "Utfärdandedatum" är: {kursdato2}
+5. Din unika "Legitimerings-ID" är: {attestID}
+6. Din unika "Referenswebbadress" är följande länk: {lenke}
+
+
+
+Klicka här for att starta registreringen: https://www.linkedin.com/profile/add?startTask=Questback
+
+Vänlig hälsning,
+
+Håkon Voldmo Kavli
+Nordic Academy Manager
+Mobile: +47 97001850
+LinkedIn:https://no.linkedin.com/in/kavlikavli/en 
+Bogstadveien 54, 0366 OSLO
+www.questback.com
+People matter. Get their insight.
+"""

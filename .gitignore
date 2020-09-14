@@ -1,0 +1,11 @@
+# General
+.env
+.vscode
+
+#Directories
+__pycache__
+archive
+participants
+
+#Misc.
+QB_Certificate_Generator.code-workspace
